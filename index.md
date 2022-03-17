@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Let's start the game"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here.
+
+Game start.
